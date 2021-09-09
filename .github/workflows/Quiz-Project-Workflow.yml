@@ -1,4 +1,4 @@
-name: .NET
+name: QuizProject .NET
 
 on:
   push:
@@ -32,5 +32,5 @@ jobs:
       working-directory: QuizProject/QuizProject
     
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: dotnet test --verbosity normal
       working-directory: QuizProject/QuizUnitTest
