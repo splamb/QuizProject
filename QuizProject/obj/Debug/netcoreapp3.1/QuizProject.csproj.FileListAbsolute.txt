@@ -1,0 +1,13 @@
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.exe
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.deps.json
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.runtimeconfig.json
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.runtimeconfig.dev.json
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.dll
+D:\Source\Repos\QuizProject\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.pdb
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.csproj.AssemblyReference.cache
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.AssemblyInfoInputs.cache
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.AssemblyInfo.cs
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.csproj.CoreCompileInputs.cache
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.dll
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.pdb
+D:\Source\Repos\QuizProject\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.genruntimeconfig.cache
