@@ -8,14 +8,26 @@ namespace QuizUnitTest
     public class QuestionFactoryTests
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CreateTrueFalseQuestion()
         {
             IQuestion q1 = QuestionFactory.NewQuestion(QuestionFactory.QuestionType.TrueOrFalse);
+            Assert.IsInstanceOfType(q1, typeof(TrueOrFalse));
 
-            if (q1.GetType() != typeof(TrueOrFalse))
-            {
-                throw new Exception();
-            }
+            //if (q1.GetType() != typeof(TrueOrFalse))
+            //{
+            //    throw new Exception();
+            //}
         }
+
+        //[TestMethod]
+        //public void CreateTrueFalseQuestion()
+        //{
+        //    IQuestion q1 = QuestionFactory.NewQuestion(QuestionFactory.QuestionType.TrueOrFalse);
+
+        //    if (q1.GetType() != typeof(TrueOrFalse))
+        //    {
+        //        throw new Exception();
+        //    }
+        //}
     }
 }
