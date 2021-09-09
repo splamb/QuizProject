@@ -27,12 +27,9 @@ jobs:
     
     - name: Restore dependencies
       run: dotnet restore
-      working-directory: QuizProject/QuizProject
     
     - name: Build
       run: dotnet build --no-restore
-      working-directory: QuizProject/QuizProject
     
     - name: Test
       run: dotnet test --verbosity normal
-      working-directory: QuizProject/QuizUnitTest
