@@ -9,6 +9,8 @@ on:
     paths:
       - QuizProject/**
     branches: [ main ]
+    
+  workflow_dispatch:
 
 jobs:
   build:
